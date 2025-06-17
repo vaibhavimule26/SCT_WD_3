@@ -21,4 +21,4 @@ I gained practical experience with DOM manipulation, event handling, and logic b
 
 **Vaibhavi Mule**
 Thank you for checking out my work! 😊
-Feel free to connect woth me on linkdin: http://www.linkedin.com/in/vaibhavi-muley-4b794132a
+Feel free to connect with me on linkdin: http://www.linkedin.com/in/vaibhavi-muley-4b794132a
